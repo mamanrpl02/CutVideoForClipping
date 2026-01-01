@@ -1,0 +1,1 @@
+output atau hasil dari cuting di terminal

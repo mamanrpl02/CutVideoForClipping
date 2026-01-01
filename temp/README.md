@@ -1,0 +1,1 @@
+tempat menyimpan video panjang
