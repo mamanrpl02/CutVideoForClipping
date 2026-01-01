@@ -1,0 +1,12 @@
+{
+  "name": "tools-cut-yt",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "clip.js",
+  "scripts": {
+    "start": "node clip.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
